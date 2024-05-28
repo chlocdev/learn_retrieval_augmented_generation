@@ -1,4 +1,3 @@
-# repo's name
-Description
+# learn retrieval augmented generation 
 
 # references
