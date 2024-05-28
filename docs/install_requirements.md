@@ -8,4 +8,10 @@
 
 - check driver version: `ubuntu-drivers devices`
 
-- install NVIDIA driver `sudo apt install nvidia-driver-xxx` (GeForce RTX 3060, xxx = 535) 
+- install NVIDIA driver `sudo apt install nvidia-driver-xxx` (GeForce RTX 3060, xxx = 535)
+
+- reboot `sudo reboot`
+
+- check `nvidia-smi`
+
+- check cuda available ` python3 -c "import torch ; print(torch.cuda.is_available())" `
