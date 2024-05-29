@@ -6,7 +6,7 @@
 
 [Qdrant for the vector database](https://github.com/qdrant/qdrant)
 
-[Llamafile for the LLM (alternatively you can use an OpenAI API compatible key and endpoint](https://github.com/Mozilla-Ocho/llamafile)
+[Llamafile for the LLM](https://github.com/Mozilla-Ocho/llamafile)
 
 [OpenAI's Python API to connect to the LLM after retrieving the vectors response from Qdrant](https://pypi.org/project/openai/)
 
